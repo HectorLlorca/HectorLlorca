@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **things.**
 
-- 👨‍💻 All of my projects are available at https://hectorllorca.github.io/portfolio3/
+- 👨‍💻 All of my projects are available at https://hectorllorca.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
